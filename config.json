@@ -1,0 +1,16 @@
+{
+    "name": "Query Badges",
+    "namespace": "PTTU\\QueryBadges", 
+    "description": "Badges for queries",
+    "authors": [
+        {
+             "name": "Milan Chauhan",
+             "email": "milan.chauhan@porthosp.nhs.uk",
+             "institution": "PTTU"
+         }
+     ],
+     "permissions": [
+        "redcap_project_home_page"
+    ],
+     "framework-version": 5
+ }
